@@ -1,0 +1,11 @@
+kit/
+kit.tar.gz
+prompt.txt
+transcripts.tar.gz
+bundle.tar.gz
+*.json
+!README.md
+!.makefun/owner.json
+*.log
+*.md
+!README.md
